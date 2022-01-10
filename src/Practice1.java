@@ -1,4 +1,12 @@
 public class Practice1 {
 
-  //  testing
+    //  testing
+
+    // step 1
+
+    // step 2
+
+    // step 3
+
 }
+
