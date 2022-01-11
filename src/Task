@@ -81,3 +81,10 @@
         16. SIDEBAR:
             1. Your local timeline is called: Local 'master' branch
             2. Your remote timeline is called: 'Origin/master' branch
+
+
+            --------------------------------------------
+            Set your username:
+            git config --global user.name "FIRST_NAME LAST_NAME"
+            Set your email address:
+            git config --global user.email "MY_NAME@example.com"
